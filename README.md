@@ -1,9 +1,9 @@
-ASP Identity / java.identity.PasswordHasher
+# ASPNET Identity / PasswordHasher
 
-This projet is a port from ASP Identity / Password Hasher V2
+This projet is a port from ASPNET Identity - Password Hasher (V2, V3)
 
-Contributor:
+## Contributor:
 
-Denis Oliveira
-João Assy
-Tiago Massita
+- Denis Oliveira
+- João Assy
+- Tiago Massita
